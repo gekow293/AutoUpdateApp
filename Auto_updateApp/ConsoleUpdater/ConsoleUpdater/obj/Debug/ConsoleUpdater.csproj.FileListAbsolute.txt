@@ -1,0 +1,7 @@
+C:\Users\Tatiana\Desktop\Auto_updateApp\ConsoleUpdater\ConsoleUpdater\bin\Debug\ConsoleUpdater.exe.config
+C:\Users\Tatiana\Desktop\Auto_updateApp\ConsoleUpdater\ConsoleUpdater\bin\Debug\ConsoleUpdater.exe
+C:\Users\Tatiana\Desktop\Auto_updateApp\ConsoleUpdater\ConsoleUpdater\bin\Debug\ConsoleUpdater.pdb
+C:\Users\Tatiana\Desktop\Auto_updateApp\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.csprojAssemblyReference.cache
+C:\Users\Tatiana\Desktop\Auto_updateApp\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Auto_updateApp\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.exe
+C:\Users\Tatiana\Desktop\Auto_updateApp\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.pdb

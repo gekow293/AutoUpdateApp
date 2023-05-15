@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tatiana\\Desktop\\Auto_updateApp\\new_file\\NewApp\\WpfApp\\WpfApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tatiana\\Desktop\\Auto_updateApp\\new_file\\NewApp\\WpfApp\\WpfApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tatiana\\Desktop\\Auto_updateApp\\new_file\\NewApp\\WpfApp\\WpfApp.csproj",
+        "projectName": "WpfApp",
+        "projectPath": "C:\\Users\\Tatiana\\Desktop\\Auto_updateApp\\new_file\\NewApp\\WpfApp\\WpfApp.csproj",
+        "packagesPath": "C:\\Users\\Tatiana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tatiana\\Desktop\\Auto_updateApp\\new_file\\NewApp\\WpfApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Tatiana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
