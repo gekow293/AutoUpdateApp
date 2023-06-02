@@ -1,7 +1,7 @@
 # AutoUpdateApp
  
-Run the .exe file on the path WpfApp / WpfApp / bin / Release / WpfApp.exe
-
-After the first update test, you can repeat the test, for this you need to delete the WpfApp folder,
-
-and copy in its place the folder of the same name from the folder "With a lowered version of the program"
+ Автообновляемое приложение. Приложение с повышенной версией ищется в файловой системе приложения
+ 
+Запускать .exe файл по пути WpfApp / WpfApp / bin / Release / WpfApp.exe
+После первого теста обновления можно повторить тест, для этого нужно удалить папку WpfApp,
+и скопируйте на ее место одноименную папку из папки "С пониженной версией программы"
